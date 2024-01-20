@@ -11,7 +11,7 @@ import SwiftUI
 struct navigationprojectApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            programmaticNavigationP3()
         }
     }
 }
